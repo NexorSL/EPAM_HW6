@@ -1,6 +1,5 @@
-package task5;
+package ua.epam.task5;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 
 public class MyHashMap {

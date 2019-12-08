@@ -1,4 +1,4 @@
-package task4;
+package ua.epam.task4;
 
 import org.junit.Before;
 import org.junit.Test;

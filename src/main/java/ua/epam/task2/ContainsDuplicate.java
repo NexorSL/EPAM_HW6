@@ -1,6 +1,5 @@
-package task2;
+package ua.epam.task2;
 
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 

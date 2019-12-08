@@ -1,4 +1,4 @@
-package task1;
+package ua.epam.task1;
 
 import java.util.*;
 

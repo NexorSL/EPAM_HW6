@@ -1,4 +1,4 @@
-package task3;
+package ua.epam.task3;
 
 
 import static org.junit.Assert.*;
